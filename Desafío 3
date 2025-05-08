@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Ejercicio crea dos variables</h1>
+     <script>
+       let nombre = "María José"
+       let esEstudiante = true
+      console.log("Nombre: " + nombre);
+      console.log("Es estudiante: " + esEstudiante);
+     </script>
+  </body>
+</html>
